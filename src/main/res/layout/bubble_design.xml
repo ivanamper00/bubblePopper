@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<org.firezenk.bubbleemitter.BubbleEmitterView
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:id="@+id/bubbleEmitter"
+android:layout_width="match_parent"
+android:layout_height="match_parent"/>
